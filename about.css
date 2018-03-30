@@ -1,0 +1,174 @@
+h3{
+    color:rgba(114, 101, 101, 0.973);
+    font-size: 50px;
+}
+
+span{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+}
+.box{
+    text-align: center;
+    border: 4px solid rgba(165, 147, 147, 0.973);
+    border-radius: 15px;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    height: 210spx;
+}
+
+/* table, th, td {
+    color:rgba(59, 59, 59, 0.973);
+    font-size: 30px; */
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    color: rgb(173, 169, 163);
+    font-size: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    color: rgb(173, 169, 163);
+    font-size:  30px;
+
+    
+}
+
+/* #page{ */
+
+/* text-align:center; */
+
+/* position:relative;
+
+margin-top:30px;
+
+font-size:16px;
+
+margin-left:-10px;
+
+width:121px;
+
+height: 35px;
+
+line-height: 35px;
+
+float:left;
+
+color:#ffeaea;
+
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+
+} */
+
+ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0; 
+
+
+}
+
+li {
+    display: inline;
+    margin-right: 90px;
+}
+
+.page {
+    width: 100%;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Navigation Bar */
+
+ul {
+
+    list-style-type: none;
+
+    margin: 5;
+
+    padding: 0;
+
+    overflow: hidden;
+
+    background-color: rgba(173, 169, 163, 0.507);
+
+    position: static;
+
+    width: 100%;
+
+    top: 0;
+
+    left: 0;
+
+    font-weight: bold;
+
+}
+
+ 
+
+ul li {
+
+    float: left;
+
+}
+
+ 
+
+ul li a {
+
+    display: block;
+
+    color: rgb(0, 0, 0);
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+
+    font-size: 20px;
+
+}
+
+ 
+
+ul li a:hover:not(.active) {
+
+    background-color: rgba(202, 227, 238, 0.753);
+
+    color:#fff;
+
+}
+
+img {
+    border-radius: 60%;
+    position: right;
+}
+
+.box{
+    border-radius: 30px;
+    border: 8px solid rgba(114, 101, 101, 0.856);
+    width: 800px;
+    background: rgba(255, 255, 255, 0.144);
+    padding: 9px;
+    box-shadow: 2px 4px 2px 4px rgba(138, 138, 138, 0.452)
+
+}
+
+
